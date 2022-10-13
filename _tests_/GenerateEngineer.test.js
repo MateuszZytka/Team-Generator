@@ -3,6 +3,7 @@ const generateEngineer = require("../../TeamInfoGenerator/Utils/GenerateEngineer
 describe("generateEngineer", () => {
     describe("initialize", () =>{
         it("should receive an object with the following properties: 'engineerName', 'engineerID', 'email', 'officeNumber'", () => {
+        generateEngineer({engineerName, engineerID, email, github})
         const engineerName = true;
         const engineerID = true;
         const email = true;

@@ -3,6 +3,7 @@ const generateIntern = require("../../TeamInfoGenerator/Utils/GenerateIntern");
 describe("generateIntern", () => {
     describe("initialize", () =>{
         it("should receive an object with the following properties: 'internName', 'internID', 'email', 'school'", () => {
+        generateIntern({internName, internID, email, school})
         const internName = true;
         const internID = true;
         const email = true;

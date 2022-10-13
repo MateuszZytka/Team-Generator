@@ -3,6 +3,7 @@ const generateManager = require("../../TeamInfoGenerator/Utils/GenerateManager")
 describe("generateManager", () => {
     describe("initialize", () =>{
         it("should receive an object with the following properties: 'managerName', 'managerID', 'email', 'officeNumber'", () => {
+        generateManager({managerName, managerID, email, officeNumber})
         const managerName = true;
         const managerID = true;
         const email = true;
