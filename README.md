@@ -26,10 +26,9 @@ Used with node.js to create a team/employee display with user inputs
 
 https://www.awesomescreenshot.com/video/11752815?key=bcc696cc7676542f520fe0b41403ebc1
 
+https://mateuszzytka.github.io/Team-Generator/
+
 ![Team-Generator (1)](https://user-images.githubusercontent.com/109117198/196011284-35ab0976-3e05-4563-87a0-6a8ad4c2052e.png)
-
-
-
 
 ## Credits
 
