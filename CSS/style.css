@@ -7,7 +7,12 @@
 header{
     text-align: center;
     font-size: 30px;
-    margin: 200px;
+    margin: 200px, 0px, 200px, 0px;
+    height: 250px;
+}
+
+h1{
+    text-align: center;
 }
 
 h2{
@@ -31,6 +36,7 @@ li{
     font-size: 18px;
     padding-top: 15px;
     text-align: left;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .container{
@@ -47,4 +53,5 @@ li{
     margin: 20px;
     padding: 10px;
     border-radius: 25px;
+    box-shadow: 4px 8px 10px #64ffda;
 }
